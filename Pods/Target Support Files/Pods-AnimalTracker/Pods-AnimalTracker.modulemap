@@ -1,0 +1,6 @@
+framework module Pods_AnimalTracker {
+  umbrella header "Pods-AnimalTracker-umbrella.h"
+
+  export *
+  module * { export * }
+}
